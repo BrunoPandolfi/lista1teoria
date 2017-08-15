@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication8;
+package lista1teoria;
 
 /**
  *
  * @author Analista
  */
-public class JavaApplication8 {
+public class Grafo {
 
     /**
      * @param args the command line arguments
